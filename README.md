@@ -253,17 +253,7 @@ Apply ingress:
 kubectl apply -f k8s/ingress.yml
 ```
 
-Local DNS mapping:
 
-```text
-<MINIKUBE_IP> chat-dd.com
-```
-
-Application URL:
-
-```text
-http://chat-dd.com
-```
 
 Ingress handles routing:
 
