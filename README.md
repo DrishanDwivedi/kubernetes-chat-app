@@ -290,6 +290,3 @@ During Kubernetes migration, several real-world deployment issues were resolved:
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
